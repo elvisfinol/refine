@@ -17,7 +17,7 @@ nock("https://iwdfzvfqbtokqetmbmbp.supabase.co:443", {
       token_type: "bearer",
       expires_in: 3600,
       expires_at: 1714039095,
-      refresh_token: "R0tQR-e2RgQQdsS7OTMCWQ",
+      refresh_token: "",
       user: {
         id: "bdefac81-2bd1-44d1-b5ed-7abedb96ccce",
         aud: "authenticated",
